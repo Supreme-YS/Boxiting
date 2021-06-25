@@ -1,1 +1,2 @@
-Boxing site
+### GitHub
+GitHub Training Center
